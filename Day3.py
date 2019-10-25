@@ -52,6 +52,17 @@ for i in range(widetotal):
             m += 1
 print("Day 3 part 1 Answer:", m)
 
+#check values for each claim if all == 1 return result
+for i in range(len(splits)):
+    yes = 0
+    for j in range(widths[i]):
+        for k in range(heights[i]):
+            if cloth[leftstart[i]+j][topstart[i]+k] == 1:
+                yes += 1
+                if yes == widths[i]*heights[i]:
+                    print("Day 3 part 2 answer:", i+1)
+                    break
+
 
 
 

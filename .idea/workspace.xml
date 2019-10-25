@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c683f9b1-17ec-47a4-8adc-1171921ec91a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day3Part2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day3Part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day3Part2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +38,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Day3Part2">
+  <component name="RunManager" selected="Python.Day3">
     <configuration name="Day1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AdventOC" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,8 +125,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Day3Part2" />
         <item itemvalue="Python.Day3" />
+        <item itemvalue="Python.Day3Part2" />
         <item itemvalue="Python.Day2" />
         <item itemvalue="Python.Day1" />
       </list>
@@ -152,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571711388267</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Day3pt1 done">
+      <created>1572035566529</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572035566529</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,6 +175,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="testing git in pycharm" />
-    <option name="LAST_COMMIT_MESSAGE" value="testing git in pycharm" />
+    <MESSAGE value="Day3pt1 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day3pt1 done" />
   </component>
 </project>

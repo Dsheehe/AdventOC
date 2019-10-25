@@ -45,10 +45,13 @@ for i in range(len(splits)):
             cloth[leftstart[i]+j][topstart[i]+k] += 1
 
 for i in range(len(splits)):
+    yes = 0
     for j in range(widths[i]):
         for k in range(heights[i]):
             if cloth[leftstart[i]+j][topstart[i]+k] == 1:
-
+                yes += 1
+                if yes == widths[i]*heights[i]:
+                    print("answer:", i+1)
 
 
 
