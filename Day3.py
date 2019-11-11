@@ -1,4 +1,4 @@
-import pandas
+
 
 # open file
 dataset = open("day3input.txt")
@@ -31,7 +31,7 @@ for line in range(len(lwdims)):
     widths.append(int(lwdims[line][0]))
     heights.append(int(lwdims[line][1]))
 
-# establis full cloth dimensions
+# establish full cloth dimensions
 widetotal = max(leftstart) + max(widths)
 heighttotal = max(topstart) + max(heights)
 
