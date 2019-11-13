@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c683f9b1-17ec-47a4-8adc-1171921ec91a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,28 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.wooga">
-    <configuration name="Day2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AdventOC" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Day5">
     <configuration name="Day3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AdventOC" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,6 +106,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Day5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AdventOC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="wooga" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AdventOC" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Day5" />
         <item itemvalue="Python.wooga" />
         <item itemvalue="Python.Day4" />
         <item itemvalue="Python.Day3" />
         <item itemvalue="Python.Day3Part2" />
-        <item itemvalue="Python.Day2" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572036405200</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Day4pt1 and pt 2 done">
+      <created>1573510186074</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1573510186074</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,6 +217,7 @@
     <MESSAGE value="testing git in pycharm" />
     <MESSAGE value="Day3pt1 done" />
     <MESSAGE value="Day3pt1 and pt 2 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day3pt1 and pt 2 done" />
+    <MESSAGE value="Day4pt1 and pt 2 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day4pt1 and pt 2 done" />
   </component>
 </project>
